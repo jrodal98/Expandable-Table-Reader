@@ -8,4 +8,4 @@ pandas == 0.24.2
 selenium == 3.141.0
 
 # pretty sure pandas read_html requires this:
-lxml == 4.3.4
+lxml == 4.6.5
